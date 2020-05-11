@@ -15,20 +15,19 @@ class Comercial extends Component {
             <Zoom>
               <img
                 src={CCS}
-                width={300}
                 alt="logo"
                 className="img-fluid"
                 style={{
                   filter: "drop-shadow(2px 4px 6px rgba(0,0,0,0.5))",
+                  width: "15vw",
                 }}
               />
             </Zoom>
 
             <p>
-              CCS es experto en aprovechar cada proyecto implementado en una
+              CCS es experto en transformar cada proyecto implementado en una
               estrategia para el logro de objetivos con enfoque a atención y
               venta en la metodología de RFM:
-              <br />
               <ul>
                 <li>
                   R=Relacionamiento, con el cliente respetando y combinando el
@@ -45,10 +44,10 @@ class Comercial extends Component {
             </p>
             <p>
               Realizamos forecasting de trafico para atender tu servicio con los
-              recursos adecuados y la mñaxima eficiancia
+              recursos adecuados y la máxima eficiencia
             </p>
             <p>
-              Mediante análisis estadísticos y cruces en patrones de información
+              Mediante análisis estadísticos y cruces de patrones de información
               sabemos cómo actúan los clientes de nuestros clientes y diseñamos
               múltiples estrategias ligadas a acciones concretas
             </p>

@@ -405,7 +405,7 @@ class Index extends Component {
                     <h1>RRHH</h1>
                     <br />
                     <p>
-                      Seleccionamos a nuestro personal de acuerdo al tipo de
+                      Seleccionamos nuestro capital humano de acuerdo al tipo de
                       servicio requerido, analizando las competencias y
                       habilidades necesarias para un excelente performance y
                       siguiendo un proceso de actualización y mejora continua en

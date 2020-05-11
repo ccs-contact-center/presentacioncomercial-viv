@@ -114,12 +114,8 @@ class Comercial extends Component {
                   <Grid item md={9}>
                     <p>
                       Implementamos y operamos tu contact center en nuestras
-                      instalaciones con personal altamente capacitado y la
+                      instalaciones con capital humano altamente capacitado y la
                       máxima fiabilidad en el servicio.
-                    </p>
-                    <p>
-                      Nustro proceso de implementación de 12 pasos, garantiza
-                      siempre el arranque en tiempo de tu proyecto
                     </p>
                     <p>
                       Nustro proceso de implementación de 12 pasos, garantiza
@@ -136,11 +132,9 @@ class Comercial extends Component {
                   </Grid>
                   <Grid item md={9}>
                     <p style={{ marginLeft: "17px" }}>
-                      Diseñamos la estrategia perfecta para proporcionar un
-                      servicio único y omnicanal,con la máxima calidad y cercano
-                      a tus usuarios finales, por medio de interaciones
-                      telefónicas, e-mail, chats y redes sociales, cubriendo
-                      satisfactoriamente todos los perfiles de tus clientes.
+                      Diseñamos estrategias para proporcionar un servicio
+                      omnicanal que nos permite brindar a tus usuarios finales
+                      un servicio único independientemente del medio de contacto
                     </p>
                   </Grid>
                 </Grid>
@@ -171,9 +165,10 @@ class Comercial extends Component {
               <div className="info-box" style={{ marginTop: "5px" }}>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
                   <p>
-                    Con nuestra amplia experiencia, operamos tu contact center
-                    en tus propias instalaciones, logrando sustanciales
-                    incrementos en la productividad y efectividad de tu personal
+                    Con base en nuestra amplia experiencia, operamos en tus
+                    instalaciones, logrando con esto eficiencias tanto en
+                    infraestructura como en productividad y efectividad del
+                    capital humano
                   </p>
                 </div>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
@@ -213,8 +208,8 @@ class Comercial extends Component {
               <div className="info-box" style={{ marginTop: "5px" }}>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
                   <p>
-                    Te ayudamos a competir en la industria y a generar planes
-                    estratégicos de mejora.
+                    Te ayudamos a generar planes estratégicos de contacto con
+                    tus clientes
                   </p>
                 </div>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
@@ -264,7 +259,7 @@ class Comercial extends Component {
               <div className="info-box" style={{ marginTop: "5px" }}>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
                   <p>
-                    Establecemos los procesos para alcanzar la excelencia en el
+                    Establecemos los procesos para alcanzar la excelencia en
                     customer experience.
                   </p>
                 </div>
@@ -277,7 +272,7 @@ class Comercial extends Component {
                 </div>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
                   <p>
-                    Nuestra area de calidad certificada con ISO 9001 y nuestra
+                    Nuestra area de calidad certificada en ISO 9001 y nuestra
                     metodologia on-demand, eleva los estandares de calidad y
                     satisfacción de tus clientes.
                   </p>
@@ -305,7 +300,7 @@ class Comercial extends Component {
               <div className="info-box" style={{ marginTop: "5px" }}>
                 <div className="info-item" style={{ marginBottom: "5px" }}>
                   <p>
-                    Entendemos a tu personal y aportamos la especialización y el
+                    Entendemos a tu capital humano y aportamos la especialización y el
                     expertis que necesita para desarrollarse.
                   </p>
                 </div>
@@ -320,7 +315,7 @@ class Comercial extends Component {
                   <p>
                     Nuestro equipo de capacitación utiliza las mejores técnicas
                     pedagogicas y las mejores herramientas disponibles para que
-                    el personal a capacitar, tenga un dominio excepcional de los
+                    el capital humano a capacitar, tenga un dominio excepcional de los
                     conocimientos y habilidades necesarias para operar tu
                     producto
                   </p>

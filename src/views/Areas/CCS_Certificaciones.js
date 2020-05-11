@@ -134,7 +134,7 @@ class Comercial extends Component {
               controlar y mejorar el rendimiento y conducirnos hacia la
               eficiencia, la excelencia de nuestros productos y la optimización
               de nuestro servicio al cliente. Estos principios son: enfoque al
-              cliente, liderazgo, participación del personal, enfoque basado en
+              cliente, liderazgo, participación del capital humano, enfoque basado en
               los procesos, enfoque de sistema para la gestión, mejora continua,
               enfoque basado en la toma de decisiones y las buenas relaciones
               con el proveedor.
@@ -210,7 +210,7 @@ class Comercial extends Component {
             <br />
             <br />
             <p>
-              Contamos con personal certificado en ITIL, cuyo enfoque hemos
+              Contamos con capital humano certificado en ITIL, cuyo enfoque hemos
               adoptado en la Gestión de nuestros servicios de TI, para alcanzar
               los objetivos estratégicos de negocio y satisfacer sus
               necesidades.
@@ -263,10 +263,10 @@ class Comercial extends Component {
               operación
             </p>
             <p>
-              Tenemos personal certificado en COPC. Integramos conceptos y
+              Tenemos capital humano certificado en COPC. Integramos conceptos y
               procesos de dicha norma para mejorar la calidad en los
               procedimientos operativos, además de gestionar, medir y capacitar
-              a nuestro personal.
+              a nuestro capiital humano.
             </p>
             <br />
             <br />

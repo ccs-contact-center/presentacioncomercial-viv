@@ -51,6 +51,7 @@ class Index extends Component {
             "Implementacion",
             "Omnicanal",
             "Universidad",
+            "BI",
             "Certificaciones",
             "Tecnologia",
             "Clientes",

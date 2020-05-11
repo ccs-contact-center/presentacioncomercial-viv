@@ -15,15 +15,23 @@ class Comercial extends Component {
             <br />
             <br />
             <Zoom>
-              <img
-                src={CCS}
-                width={700}
-                alt="logo"
-                className="img-fluid"
+              <div
                 style={{
-                  filter: "drop-shadow(2px 4px 6px rgba(0,0,0,0.5))",
+                  padding: "4vw",
+                  backgroundColor: "rgba(255,255,255,0.5)",
+                  borderRadius: "1vw",
                 }}
-              />
+              >
+                <img
+                  src={CCS}
+                  alt="logo"
+                  className="img-fluid"
+                  style={{
+                    filter: "drop-shadow(2px 4px 6px rgba(0,0,0,0.5))",
+                    width: "40vw",
+                  }}
+                />
+              </div>
             </Zoom>
             <br />
             <br />

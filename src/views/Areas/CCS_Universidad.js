@@ -30,7 +30,7 @@ class Comercial extends Component {
             </p>
             <p>
               Los cursos impartidos abarcan habilidades profesionales y
-              personales, impartidos por nuestro personal lider en la industria
+              personales, impartidos por nuestro equipo lider en la industria
               y nuestro reconocido equipo de capacitación
             </p>
             <p>
